@@ -24,4 +24,39 @@
 
 /* Positioning Classes */
 
+.sale {
+  padding-bottom: 10px;
+}
 
+.featured {
+  float: left;
+  height: 615px;
+  width: 645px;
+  padding-right: 10px;
+}
+
+.archive {
+  float: left;
+  height: 290px;
+  width: 315px;
+  padding-left: 5px;
+}
+
+.ladybug {
+  float: left;
+  width: 33.33%;
+  padding-right: 10px;
+}
+
+.skate {
+  float: left;
+  width: 33.33%;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.heels {
+  float: left;
+  width: 33.33%;
+  padding-left: 10px;
+}
